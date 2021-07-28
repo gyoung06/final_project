@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>btnsample.jsp</title>
 </head>
 <body>
-home
+<a href="${pageContext.request.contextPath}/hjy/hotelInsert1">등록하기</a>
 </body>
 </html>
