@@ -15,3 +15,4 @@
 oracle 계정
 아이디: final
 비밀번호: final1234
+xc
